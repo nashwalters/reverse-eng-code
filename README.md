@@ -31,10 +31,10 @@ Node.js is required on your local machine. To download Node.js please visit [Nod
 The complete app will allow users to be able to sign up and log in to view member page.
 
 #### Tutorial
-click [tutorial](hhttps://docs.google.com/document/d/1X6a9OhZ4hOE5Ao-dEzrd9drgpL09Sm9S-u2x2A9q2UU/edit?usp=sharing)
+click [Tutorial](https://docs.google.com/document/d/1X6a9OhZ4hOE5Ao-dEzrd9drgpL09Sm9S-u2x2A9q2UU/edit?usp=sharing)
 
 #### Screenshots
-<img src="assets/userprompt.gif" alt="gif of prompts" width="600px">
+<img src="screencapture.png" alt="app" width="600px">
 
 #### Tips
 1. To try this application you are able to clone this repo or download a zip file to your local machine.
